@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **ArtaZDX/ArtaZDX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there, My name is Arta Moghaddasi 👋
+
+- I am student at high school 👨‍🎓
+- Interst at programming and AI 🤖
+- Currently working on <https://github.com/ModernBinary/ModernBinary> 🐱‍💻
+- Living in Yerevan, Armenia
+
+## Reach me 🐱‍🏍
+- Arta moghaddasi <arta.moghaddasi@gmail.com>
