@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 - Living in Yerevan, Armenia
 
 ## Reach me 🐱‍🏍
-- Arta moghaddasi <arta.moghaddasi@gmail.com>
+- Arta moghaddasi : <arta.moghaddasi@gmail.com>
+- Dev.to : <https://dev.to/arta>
