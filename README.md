@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 ## Reach me 🐱‍🏍
 - Arta moghaddasi : <arta.moghaddasi@gmail.com>
 - Dev.to : <https://dev.to/arta>
+- Twitter : <@ArtaMoghaddasi>
