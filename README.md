@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 - Living in Yerevan, Armenia
 
 ## Reach me 🐱‍🏍
-- Arta moghaddasi : <arta.moghaddasi@gmail.com>
-- Dev.to : <https://dev.to/arta>
-- Twitter : <@ArtaMoghaddasi>
+- Arta moghaddasi : <arta.moghaddasi@gmail.com> 📨
+- Dev.to : <https://dev.to/arta> 👨‍💻
+- Twitter :```bat @ArtaMoghaddasi ``` 🐦
