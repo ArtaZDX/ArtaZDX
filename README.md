@@ -1,11 +1,11 @@
 ## Hi there <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
-**My name is [Arta Moghaddasi](https://github.com) 🐱‍💻 !**
+**My name is [Arta Moghaddasi](https://github.com) !**
 
-- I am student at secondary school 👨‍🎓
-- Interest at programming, Computer Science, Mathematics, Physics and AI 🤖
-- Currently working on [Modern Binary](https://github.com/ModernBinary/ModernBinary) Project 🐱‍💻
-- Living in United Kingdom, London 🇬🇧
+- Student at high-school
+- Interest at programming, Computer Science, Mathematics, Physics and AI
+- Currently working on [Modern Binary](https://github.com/ModernBinary/ModernBinary) Project
+- Living in United Kingdom, London
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ArtaZDX&show_icons=true&hide_border=true">
 
