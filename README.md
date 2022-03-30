@@ -2,10 +2,10 @@
 
 **My name is [Arta Moghaddasi](https://github.com) 🐱‍💻 !**
 
-- I am student at high school 👨‍🎓
+- I am student at secondary school 👨‍🎓
 - Interest at programming, Computer Science, Mathematics, Physics and AI 🤖
 - Currently working on [Modern Binary](https://github.com/ModernBinary/ModernBinary) Project 🐱‍💻
-- Living in Yerevan, Armenia
+- Living in United Kingdom, London 🇬🇧
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ArtaZDX&show_icons=true&hide_border=true">
 
