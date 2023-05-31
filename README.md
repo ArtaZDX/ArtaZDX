@@ -31,7 +31,6 @@
 ## Reach me 🐱‍🏍
 - [Mail](mailto:moghaddasi.arta@gmail.com) 📨
 - [Dev.to](https://dev.to/arta) 👨‍💻
-- [Twitter](https://twitter.com/artamoghaddasi) 🐦
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Yaronzz)](https://twitter.com/artamoghaddasi)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yaronhuang@foxmail.com)](mailto:moghaddasi.arta@gmail.com)
